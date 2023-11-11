@@ -1,0 +1,63 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Dublin Region Energy Master Plan - DATA, Results & Tools
+theme: digital-garden-hugo-theme
+googleAnalytics: UA-PROPERTY_ID
+Params:
+  description: My Digital Garden on the Internet
+  enableSearch: yes
+  images: /digital-garden-logo.png
+  newsletter:
+    description: A curated weekly digest once a week to your mailbox
+    path: https://buttondown.email/api/emails/embed-subscribe/
+    provider: buttondown
+    title: ''
+menu:
+  main:
+    - name: About
+      url: /
+      weight: 1
+    - name: Content
+      params:
+        header: yes
+      weight: 2
+    - name: Data
+      url: /articles
+      weight: 3
+    - name: Tools
+      url: /post
+      weight: 3
+    - name: Workshops/presentations 
+      url: /portfolio
+      weight: 4
+    - name: Report
+      url: /stack
+      weight: 5
+    - name: Links
+      params:
+        header: yes
+      weight: 6
+    - name: Partners
+      url: https://polywork.com
+      weight: 7
+      
+  social:
+    - name: Twitter
+      url: https://twitter.com
+      weight: 1
+    - name: GitHub
+      url: https://github.com
+      weight: 2
+    - name: LinkedIn
+      url: https://linkedin.com
+      weight: 3
+    - name: Email
+      url: mailto:user@example.org
+      weight: 8
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  highlight:
+    style: dracula
