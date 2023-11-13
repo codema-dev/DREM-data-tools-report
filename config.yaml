@@ -1,15 +1,15 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: Dublin Region Energy Master Plan - DATA, Results & Tools
+title: Dublin Region Energy Master Plan - Data, Results & Tools
 theme: digital-garden-hugo-theme
 googleAnalytics: UA-PROPERTY_ID
 Params:
-  description: My Digital Garden on the Internet
+  description: Dublin Region Energy Master Plan - Data, Results & Tools
   enableSearch: yes
   images: /digital-garden-logo.png
   newsletter:
-    description: A curated weekly digest once a week to your mailbox
-    path: https://buttondown.email/api/emails/embed-subscribe/
+    description:
+    path: #
     provider: buttondown
     title: ''
 menu:
