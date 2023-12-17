@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/articles/buildings/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/buildings/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/cso_gas_vs_synthetic_ber_gas/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/cso_gas_vs_synthetic_ber_gas/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/deprivation_index_map/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/deprivation_index_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/dublin_rail_link_emissions-/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/dublin_rail_link_emissions-/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/emissions_map/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/emissions_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/heat_demand_density_map/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/heat_demand_density_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/heat_demand_map/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/heat_demand_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/heritage_buildings_map/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/heritage_buildings_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/high_temperature_industrial_heat_demand_map/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/high_temperature_industrial_heat_demand_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/post_retrofit_heat_pump_viability_map/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/post_retrofit_heat_pump_viability_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/pre-retrofitheatpumpviabilitymap/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/pre-retrofitheatpumpviabilitymap/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/residential/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/residential/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/roadtransportemissions/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/roadtransportemissions/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/substationmap/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/substationmap/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/dh-vs-hp/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/articles/dh-vs-hp/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/plot/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/r/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/r-markdown/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/regression/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/stack/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/stack/</loc>
   </url><url>
-    <loc>https://example.org/portfolio/</loc>
+    <loc>https://codema-dev.github.io/DREM-data-tools-report/portfolio/</loc>
   </url>
 </urlset>
