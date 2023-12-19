@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Dublin Region Energy Master Plan - Data, Results &amp; Tools</title>
+    <link>/</link>
+    <description>Recent content in Homepage on Dublin Region Energy Master Plan - Data, Results &amp; Tools</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01. Buildings</title>
+      <link>/articles/buildings/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/buildings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>02. CSO Gas vs Synthetic BER Gas</title>
+      <link>/articles/cso_gas_vs_synthetic_ber_gas/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/cso_gas_vs_synthetic_ber_gas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>03. Deprivation Index Map</title>
+      <link>/articles/deprivation_index_map/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/deprivation_index_map/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>04. Dublin Rail Link Emissions</title>
+      <link>/articles/dublin_rail_link_emissions-/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/dublin_rail_link_emissions-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>05. Emissions Map</title>
+      <link>/articles/emissions_map/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/emissions_map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>06. Heat Demand Density Map</title>
+      <link>/articles/heat_demand_density_map/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/heat_demand_density_map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>07. Heat Demand Map</title>
+      <link>/articles/heat_demand_map/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/heat_demand_map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>08. Heritage Buildings Map</title>
+      <link>/articles/heritage_buildings_map/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/heritage_buildings_map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>09. High Temperature Industrial Heat Demand Map</title>
+      <link>/articles/high_temperature_industrial_heat_demand_map/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/high_temperature_industrial_heat_demand_map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10. Post-Retrofit Heat Pump Viability Map</title>
+      <link>/articles/post_retrofit_heat_pump_viability_map/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/post_retrofit_heat_pump_viability_map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>11. Pre-Retrofit Heat Pump Viability Map</title>
+      <link>/articles/pre-retrofitheatpumpviabilitymap/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/pre-retrofitheatpumpviabilitymap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12. Residential</title>
+      <link>/articles/residential/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/residential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>13. Road Transport Emissions</title>
+      <link>/articles/roadtransportemissions/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/roadtransportemissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14. Substation Map</title>
+      <link>/articles/substationmap/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/substationmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15. DH VS HP</title>
+      <link>/articles/dh-vs-hp/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/articles/dh-vs-hp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2020-12-01-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
