@@ -1,4 +1,4 @@
-baseURL: "https://codema-dev.github.io/DREM-data-tools-report/"
+baseURL: https://codema-dev.github.io/DREM-data-tools-report/
 languageCode: en-us
 title: Dublin Region Energy Master Plan - Data, Results & Tools
 theme: digital-garden-hugo-theme
