@@ -7,7 +7,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 [params]
   description = "Dublin Region Energy Master Plan - Data, Results & Tools"
   enableSearch = true
-  images = "/digital-garden-logo.png"
+  images = "https://codema-dev.github.io/DREM-data-tools-report/digital-garden-logo.png"
 
   [params.newsletter]
     description = ""
