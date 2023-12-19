@@ -1,0 +1,84 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Dublin Region Energy Master Plan - Data, Results & Tools"
+theme = "digital-garden-hugo-theme"
+googleAnalytics = "UA-PROPERTY_ID"
+
+[params]
+  description = "Dublin Region Energy Master Plan - Data, Results & Tools"
+  enableSearch = true
+  images = "/digital-garden-logo.png"
+
+  [params.newsletter]
+    description = ""
+    path = "#"
+    provider = "buttondown"
+    title = ""
+
+[[menu.main]]
+  name = "About"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Content"
+  weight = 2
+  [menu.main.params]
+    header = true
+
+[[menu.main]]
+  name = "Data"
+  url = "/articles"
+  weight = 3
+
+[[menu.main]]
+  name = "Tools"
+  url = "/post"
+  weight = 3
+
+[[menu.main]]
+  name = "Workshops/presentations"
+  url = "/portfolio"
+  weight = 4
+
+[[menu.main]]
+  name = "Report"
+  url = "/stack"
+  weight = 5
+
+[[menu.main]]
+  name = "Links"
+  weight = 6
+  [menu.main.params]
+    header = true
+
+[[menu.main]]
+  name = "Partners"
+  url = "https://polywork.com"
+  weight = 7
+
+[[menu.social]]
+  name = "Twitter"
+  url = "https://twitter.com"
+  weight = 1
+
+[[menu.social]]
+  name = "GitHub"
+  url = "https://github.com"
+  weight = 2
+
+[[menu.social]]
+  name = "LinkedIn"
+  url = "https://linkedin.com"
+  weight = 3
+
+[[menu.social]]
+  name = "Email"
+  url = "mailto:user@example.org"
+  weight = 8
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.highlight]
+  style = "dracula"
