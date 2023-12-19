@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: http://codema-dev.github.io/
 languageCode: en-us
 title: Dublin Region Energy Master Plan - Data, Results & Tools
 theme: digital-garden-hugo-theme
