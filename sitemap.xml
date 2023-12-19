@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/articles/buildings/</loc>
+    <loc>/articles/buildings/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/</loc>
+    <loc>/articles/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2023-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/cso_gas_vs_synthetic_ber_gas/</loc>
+    <loc>/articles/cso_gas_vs_synthetic_ber_gas/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/deprivation_index_map/</loc>
+    <loc>/articles/deprivation_index_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/dublin_rail_link_emissions-/</loc>
+    <loc>/articles/dublin_rail_link_emissions-/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/emissions_map/</loc>
+    <loc>/articles/emissions_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/heat_demand_density_map/</loc>
+    <loc>/articles/heat_demand_density_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/heat_demand_map/</loc>
+    <loc>/articles/heat_demand_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/heritage_buildings_map/</loc>
+    <loc>/articles/heritage_buildings_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/high_temperature_industrial_heat_demand_map/</loc>
+    <loc>/articles/high_temperature_industrial_heat_demand_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/post_retrofit_heat_pump_viability_map/</loc>
+    <loc>/articles/post_retrofit_heat_pump_viability_map/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/pre-retrofitheatpumpviabilitymap/</loc>
+    <loc>/articles/pre-retrofitheatpumpviabilitymap/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/residential/</loc>
+    <loc>/articles/residential/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/roadtransportemissions/</loc>
+    <loc>/articles/roadtransportemissions/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/substationmap/</loc>
+    <loc>/articles/substationmap/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/articles/dh-vs-hp/</loc>
+    <loc>/articles/dh-vs-hp/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.org/stack/</loc>
+    <loc>/stack/</loc>
   </url><url>
-    <loc>https://example.org/portfolio/</loc>
+    <loc>/portfolio/</loc>
   </url>
 </urlset>
