@@ -1,4 +1,7 @@
-baseURL: 
+<<<<<<< HEAD
+baseURL: https://example.org/
+=======
+>>>>>>> 717b0b2612a79c8f669ac87d5445d70d889f050d
 languageCode: en-us
 title: Dublin Region Energy Master Plan - Data, Results & Tools
 theme: digital-garden-hugo-theme
