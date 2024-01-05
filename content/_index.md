@@ -22,31 +22,19 @@ on climate and meeting their policy requirements in areas such as:
 - Carbon and energy assessment of planning applications
 - Creation of EU Covenant of Mayors Sustainable Energy and Climate Action Plans
 
-The results of the DREM will allow local authorities to effectively create evidence-based policies and actions, which will
-affect CO2 emissions county-wide, by using the local authorities’ powers in spatial planning, land-use, planning policy
-and public infrastructure.
-This holistic approach to analysing in-depth the local energy characteristics of the Dublin Region takes account of such
-aspects as the building stock’s efficiency and energy demand, the capacities of local electricity infrastructure, land-use
-constraints and availability, transport network capacities and vehicle use, and layered with expected population and
-development growth. It also examines the potential for local renewable and low-carbon generation of heat, electricity
-and renewable fuels in Dublin.
-To define the Dublin Region’s decarbonisation pathways and help the region to meet its 2030 and 2050 targets, Codema
-first had to get a good understanding of the current situation in the region; this was followed by projecting the future
-business-as-usual energy demand and emissions (for the building, heat, electricity and transport sectors), followed by
-the identification of low-carbon potential for the different sectors in the region. This could then all be used to determine
-the net-zero pathway for Dublin.
-16
+The results of the DREM will allow local authorities to effectively create evidence-based policies and actions, which will affect CO2 emissions county-wide, by using the local authorities’ powers in spatial planning, land-use, planning policy and public infrastructure. This holistic approach to analysing in-depth the local energy characteristics of the Dublin Region takes account of such aspects as the building stock’s efficiency and energy demand, the capacities of local electricity infrastructure, land-use constraints and availability, transport network capacities and vehicle use, and layered with expected population and development growth. It also examines the potential for local renewable and low-carbon generation of heat, electricity and renewable fuels in Dublin.
+To define the Dublin Region’s decarbonisation pathways and help the region to meet its 2030 and 2050 targets, Codema first had to get a good understanding of the current situation in the region; this was followed by projecting the future business-as-usual energy demand and emissions (for the building, heat, electricity and transport sectors), followed by
+the identification of low-carbon potential for the different sectors in the region. This could then all be used to determine the net-zero pathway for Dublin.
+
 The current spatial energy demands and emissions, which include the current energy efficiency of buildings, heat and
 electricity demands and peak loads, transport demand and modal split, provided Codema with information on the
 energy use and emissions from the different sectors, along with current technologies that are in use.
-● Heat accounts for the majority of emissions within the Dublin region at 46%, followed by transport at 28% and
+- Heat accounts for the majority of emissions within the Dublin region at 46%, followed by transport at 28% and
 electricity at 26%.
-● The sectors that have the highest impact on emissions are the residential and transport sector, which
+- The sectors that have the highest impact on emissions are the residential and transport sector, which
 combined, contribute around 57% to total emissions.
-● Commercial buildings and services, data centres and industrial (non-ETS) buildings, account for 19%, 16% and
-3% of total emissions, respectively.
-● Public sector emissions - which includes all public buildings located in the Dublin Region - represents
-approximately 5% of the total.
+- Commercial buildings and services, data centres and industrial (non-ETS) buildings, account for 19%, 16% and 3% of total emissions, respectively. Public sector emissions (which includes all public buildings located in the Dublin Region) represents approximately 5% of the total.
+
 This detailed energy and emissions information was then used to give insight to the current gap for Dublin to meet its
 2030 and 2050 targets. The 2030 target corresponds to a 51% reduction from 2018 figures, as defined by the
 Programme for Government1
